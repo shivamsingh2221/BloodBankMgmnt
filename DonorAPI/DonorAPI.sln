@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DonorAPI", "DonorAPI\DonorAPI.csproj", "{6FF3B2D9-1DC2-435B-BF5C-21F6BE14325B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonorUnitTesting", "DonorUnitTesting\DonorUnitTesting.csproj", "{C5A57065-15F8-4F20-BFD2-0934A5DD8969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF3B2D9-1DC2-435B-BF5C-21F6BE14325B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF3B2D9-1DC2-435B-BF5C-21F6BE14325B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF3B2D9-1DC2-435B-BF5C-21F6BE14325B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF3B2D9-1DC2-435B-BF5C-21F6BE14325B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A57065-15F8-4F20-BFD2-0934A5DD8969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A57065-15F8-4F20-BFD2-0934A5DD8969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A57065-15F8-4F20-BFD2-0934A5DD8969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A57065-15F8-4F20-BFD2-0934A5DD8969}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A61D8DD-BDBC-49CB-B525-8EFB2EEA9346}
+	EndGlobalSection
+EndGlobal
